@@ -1,0 +1,2312 @@
+[
+  {
+    "timestamp": 0.0,
+    "type": "text",
+    "content": "uandtuviensdavoille",
+    "source": "easyocr",
+    "confidence": 0.802
+  },
+  {
+    "timestamp": 0.0,
+    "type": "text",
+    "content": "peluis",
+    "source": "easyocr",
+    "confidence": 0.718
+  },
+  {
+    "timestamp": 0.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 0.0,
+    "type": "text",
+    "content": "lauryaucalme",
+    "source": "easyocr",
+    "confidence": 0.949
+  },
+  {
+    "start_timestamp": 0.0,
+    "end_timestamp": 0.0,
+    "type": "object",
+    "content": "дверь",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      68,
+      0,
+      587,
+      1036
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 0.0,
+    "type": "audio",
+    "content": "Ma maman, papa ! J'ai eu que terminé !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 2.76
+  },
+  {
+    "start_timestamp": 0.7,
+    "end_timestamp": 0.73,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.723,
+    "representative_bbox": [
+      165.0,
+      784.6,
+      256.9,
+      1023.3
+    ],
+    "total_detections": 4
+  },
+  {
+    "start_timestamp": 0.7,
+    "end_timestamp": 48.5,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.628,
+    "representative_bbox": [
+      173.4,
+      213.1,
+      487.7,
+      736.4
+    ],
+    "total_detections": 1727
+  },
+  {
+    "start_timestamp": 0.8,
+    "end_timestamp": 0.8,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.762,
+    "representative_bbox": [
+      214.3,
+      432.6,
+      342.0,
+      1001.4
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 0.9,
+    "end_timestamp": 1.1,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.736,
+    "representative_bbox": [
+      168.9,
+      435.0,
+      253.0,
+      1008.5
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 1.0,
+    "end_timestamp": 1.4,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.842,
+    "representative_bbox": [
+      436.4,
+      367.6,
+      557.3,
+      825.5
+    ],
+    "total_detections": 19
+  },
+  {
+    "start_timestamp": 1.2,
+    "end_timestamp": 1.2,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.817,
+    "representative_bbox": [
+      95.1,
+      458.6,
+      203.7,
+      960.1
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 1.3,
+    "end_timestamp": 14.13,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.876,
+    "representative_bbox": [
+      287.1,
+      340.4,
+      576.0,
+      999.6
+    ],
+    "total_detections": 210
+  },
+  {
+    "start_timestamp": 1.3,
+    "end_timestamp": 1.3,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.827,
+    "representative_bbox": [
+      2.3,
+      744.0,
+      87.1,
+      894.2
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 1.5,
+    "end_timestamp": 2.0,
+    "type": "object",
+    "content": "chair",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.714,
+    "representative_bbox": [
+      201.8,
+      358.0,
+      288.1,
+      462.0
+    ],
+    "total_detections": 6
+  },
+  {
+    "start_timestamp": 1.5,
+    "end_timestamp": 2.0,
+    "type": "object",
+    "content": "dining table",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.786,
+    "representative_bbox": [
+      83.3,
+      655.2,
+      576.0,
+      1008.1
+    ],
+    "total_detections": 9
+  },
+  {
+    "start_timestamp": 1.5,
+    "end_timestamp": 12.9,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.869,
+    "representative_bbox": [
+      1.6,
+      257.9,
+      295.9,
+      983.1
+    ],
+    "total_detections": 230
+  },
+  {
+    "start_timestamp": 1.5,
+    "end_timestamp": 1.8,
+    "type": "object",
+    "content": "remote",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.635,
+    "representative_bbox": [
+      349.7,
+      553.5,
+      504.1,
+      614.8
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 1.8,
+    "end_timestamp": 1.8,
+    "type": "object",
+    "content": "chair",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.611,
+    "representative_bbox": [
+      0.7,
+      334.5,
+      49.4,
+      389.5
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 1.8,
+    "end_timestamp": 2.0,
+    "type": "object",
+    "content": "handbag",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.862,
+    "representative_bbox": [
+      197.3,
+      455.1,
+      255.4,
+      527.3
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 2.0,
+    "end_timestamp": 2.0,
+    "type": "object",
+    "content": "cell phone",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.617,
+    "representative_bbox": [
+      371.6,
+      568.6,
+      511.1,
+      628.2
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 2.0,
+    "end_timestamp": 2.0,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.526,
+    "representative_bbox": [
+      1.8,
+      336.9,
+      51.4,
+      379.6
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 2.76,
+    "type": "audio",
+    "content": "Ouais !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 3.76
+  },
+  {
+    "start_timestamp": 3.67,
+    "end_timestamp": 4.9,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.544,
+    "representative_bbox": [
+      0.7,
+      381.1,
+      126.7,
+      954.7
+    ],
+    "total_detections": 15
+  },
+  {
+    "timestamp": 3.76,
+    "type": "audio",
+    "content": "Tu vois qu'il me termine ?",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 4.76
+  },
+  {
+    "start_timestamp": 4.2,
+    "end_timestamp": 4.9,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.591,
+    "representative_bbox": [
+      131.4,
+      400.7,
+      288.0,
+      994.8
+    ],
+    "total_detections": 5
+  },
+  {
+    "timestamp": 4.76,
+    "type": "audio",
+    "content": "Ah ! Faa !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 5.76
+  },
+  {
+    "timestamp": 5.0,
+    "type": "text",
+    "content": "En-fin",
+    "source": "easyocr",
+    "confidence": 0.536
+  },
+  {
+    "timestamp": 5.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 5.0,
+    "type": "text",
+    "content": "laury aucalme",
+    "source": "easyocr",
+    "confidence": 0.654
+  },
+  {
+    "start_timestamp": 5.0,
+    "end_timestamp": 5.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      113,
+      500,
+      1063
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 5.2,
+    "end_timestamp": 5.5,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.949,
+    "representative_bbox": [
+      451.0,
+      928.4,
+      576.0,
+      1020.5
+    ],
+    "total_detections": 4
+  },
+  {
+    "start_timestamp": 5.4,
+    "end_timestamp": 5.4,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.502,
+    "representative_bbox": [
+      25.4,
+      456.3,
+      132.1,
+      521.7
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 5.76,
+    "type": "audio",
+    "content": "Ah, son grandage !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 6.76
+  },
+  {
+    "start_timestamp": 6.2,
+    "end_timestamp": 6.2,
+    "type": "object",
+    "content": "couch",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.547,
+    "representative_bbox": [
+      0.7,
+      468.6,
+      162.6,
+      1024.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 6.5,
+    "end_timestamp": 6.5,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.553,
+    "representative_bbox": [
+      106.0,
+      644.2,
+      501.3,
+      1018.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 6.76,
+    "type": "audio",
+    "content": "Bah ça va, je suis imparisi, on a savant les jeunes, tu vois, mais tu as envie de t'en avoir le permis sinon, hein ?",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 10.76
+  },
+  {
+    "start_timestamp": 7.4,
+    "end_timestamp": 10.3,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.693,
+    "representative_bbox": [
+      479.1,
+      582.1,
+      576.0,
+      1009.7
+    ],
+    "total_detections": 19
+  },
+  {
+    "timestamp": 10.0,
+    "type": "text",
+    "content": "Tu vois; on met du temps",
+    "source": "easyocr",
+    "confidence": 0.72
+  },
+  {
+    "timestamp": 10.0,
+    "type": "text",
+    "content": "a avoir le permis:",
+    "source": "easyocr",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": 10.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 10.0,
+    "type": "text",
+    "content": "laUryaucalme",
+    "source": "easyocr",
+    "confidence": 0.864
+  },
+  {
+    "start_timestamp": 10.0,
+    "end_timestamp": 10.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      87,
+      386,
+      1035
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 10.0,
+    "end_timestamp": 10.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      355,
+      269,
+      588,
+      1035
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 10.76,
+    "type": "audio",
+    "content": "Je suis désolé, Feston.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 11.76
+  },
+  {
+    "start_timestamp": 11.8,
+    "end_timestamp": 12.47,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.654,
+    "representative_bbox": [
+      0.0,
+      430.7,
+      155.7,
+      759.3
+    ],
+    "total_detections": 14
+  },
+  {
+    "start_timestamp": 12.5,
+    "end_timestamp": 12.8,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.591,
+    "representative_bbox": [
+      334.9,
+      675.9,
+      444.6,
+      807.4
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 12.7,
+    "end_timestamp": 12.7,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.752,
+    "representative_bbox": [
+      1.0,
+      188.9,
+      115.1,
+      580.2
+    ],
+    "total_detections": 2
+  },
+  {
+    "timestamp": 12.76,
+    "type": "audio",
+    "content": "Prends fait cette vauterie, mes instants.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 14.24
+  },
+  {
+    "start_timestamp": 12.8,
+    "end_timestamp": 14.7,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.897,
+    "representative_bbox": [
+      425.2,
+      857.9,
+      576.0,
+      1018.8
+    ],
+    "total_detections": 20
+  },
+  {
+    "timestamp": 15.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 15.0,
+    "type": "text",
+    "content": "lauryaucalme",
+    "source": "easyocr",
+    "confidence": 0.991
+  },
+  {
+    "start_timestamp": 15.0,
+    "end_timestamp": 15.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      83,
+      588,
+      1063
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 16.2,
+    "end_timestamp": 19.5,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.627,
+    "representative_bbox": [
+      0.8,
+      369.4,
+      262.0,
+      1019.9
+    ],
+    "total_detections": 64
+  },
+  {
+    "start_timestamp": 16.5,
+    "end_timestamp": 16.5,
+    "type": "object",
+    "content": "zebra",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.599,
+    "representative_bbox": [
+      0.0,
+      699.5,
+      140.6,
+      1024.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 16.6,
+    "end_timestamp": 16.6,
+    "type": "object",
+    "content": "remote",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.591,
+    "representative_bbox": [
+      194.5,
+      556.7,
+      232.1,
+      586.2
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 16.76,
+    "type": "audio",
+    "content": "Je l'ai.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 17.76
+  },
+  {
+    "start_timestamp": 17.4,
+    "end_timestamp": 17.4,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.531,
+    "representative_bbox": [
+      225.9,
+      546.2,
+      576.0,
+      1011.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 17.7,
+    "end_timestamp": 17.7,
+    "type": "object",
+    "content": "bed",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.584,
+    "representative_bbox": [
+      16.5,
+      619.6,
+      559.9,
+      1016.8
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 17.76,
+    "type": "audio",
+    "content": "Un campagne-moi château d'eau, je vois l'acheter des épices.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 19.76
+  },
+  {
+    "start_timestamp": 18.5,
+    "end_timestamp": 18.5,
+    "type": "object",
+    "content": "clock",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.643,
+    "representative_bbox": [
+      123.3,
+      447.9,
+      148.8,
+      548.7
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 19.6,
+    "end_timestamp": 21.17,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.593,
+    "representative_bbox": [
+      209.3,
+      669.0,
+      377.1,
+      1023.4
+    ],
+    "total_detections": 37
+  },
+  {
+    "timestamp": 19.76,
+    "type": "audio",
+    "content": "Quoi ? Maintenant, mais avec Julien, on va...",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 21.36
+  },
+  {
+    "timestamp": 20.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 0.814
+  },
+  {
+    "timestamp": 20.0,
+    "type": "text",
+    "content": "laUryaucalme",
+    "source": "easyocr",
+    "confidence": 0.788
+  },
+  {
+    "start_timestamp": 20.0,
+    "end_timestamp": 20.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 1.0,
+    "representative_bbox": [
+      0,
+      135,
+      588,
+      1036
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 21.36,
+    "type": "audio",
+    "content": "Oui, maintenant.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 22.16
+  },
+  {
+    "timestamp": 22.16,
+    "type": "audio",
+    "content": "Ensuite, on va prendre de Versailles, va ton nom.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 23.64
+  },
+  {
+    "start_timestamp": 22.4,
+    "end_timestamp": 27.3,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.666,
+    "representative_bbox": [
+      4.5,
+      467.5,
+      576.0,
+      995.0
+    ],
+    "total_detections": 17
+  },
+  {
+    "start_timestamp": 22.7,
+    "end_timestamp": 22.8,
+    "type": "object",
+    "content": "clock",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.83,
+    "representative_bbox": [
+      121.5,
+      431.8,
+      150.0,
+      522.3
+    ],
+    "total_detections": 2
+  },
+  {
+    "timestamp": 23.64,
+    "type": "audio",
+    "content": "Mais tu vas enbûcher, la vie de suite.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 24.68
+  },
+  {
+    "start_timestamp": 23.73,
+    "end_timestamp": 23.77,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.513,
+    "representative_bbox": [
+      257.8,
+      693.1,
+      380.9,
+      1023.0
+    ],
+    "total_detections": 2
+  },
+  {
+    "timestamp": 24.68,
+    "type": "audio",
+    "content": "Tu vas laisser ta mère prendre l'étransport avec toutes les cours, c'est sur mal d'eau.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 27.96
+  },
+  {
+    "start_timestamp": 24.8,
+    "end_timestamp": 25.2,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.887,
+    "representative_bbox": [
+      459.9,
+      902.6,
+      573.7,
+      1024.0
+    ],
+    "total_detections": 4
+  },
+  {
+    "timestamp": 25.0,
+    "type": "text",
+    "content": "Tu vas laisserta mere",
+    "source": "easyocr",
+    "confidence": 0.985
+  },
+  {
+    "timestamp": 25.0,
+    "type": "text",
+    "content": "prendre les transports",
+    "source": "easyocr",
+    "confidence": 0.862
+  },
+  {
+    "timestamp": 25.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 25.0,
+    "type": "text",
+    "content": "laury-aucalme",
+    "source": "easyocr",
+    "confidence": 0.75
+  },
+  {
+    "start_timestamp": 25.0,
+    "end_timestamp": 25.0,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.645,
+    "representative_bbox": [
+      419.7,
+      976.4,
+      539.5,
+      1024.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 25.0,
+    "end_timestamp": 25.1,
+    "type": "object",
+    "content": "tennis racket",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.686,
+    "representative_bbox": [
+      168.3,
+      695.8,
+      354.4,
+      859.2
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 25.0,
+    "end_timestamp": 25.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      73,
+      588,
+      1036
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 25.7,
+    "end_timestamp": 25.7,
+    "type": "object",
+    "content": "clock",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.636,
+    "representative_bbox": [
+      102.1,
+      438.6,
+      141.0,
+      539.5
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 27.93,
+    "end_timestamp": 28.5,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.547,
+    "representative_bbox": [
+      206.2,
+      546.3,
+      354.7,
+      1023.3
+    ],
+    "total_detections": 9
+  },
+  {
+    "start_timestamp": 28.43,
+    "end_timestamp": 28.53,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.524,
+    "representative_bbox": [
+      251.4,
+      673.3,
+      311.4,
+      1024.0
+    ],
+    "total_detections": 3
+  },
+  {
+    "timestamp": 28.48,
+    "type": "audio",
+    "content": "Ouais, non, non, bien sûr que non.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 29.56
+  },
+  {
+    "timestamp": 29.56,
+    "type": "audio",
+    "content": "Et de mes matins, Tira accompagné tente Gerteru d'Alairoport, elle part aux antiques.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 33.08
+  },
+  {
+    "start_timestamp": 29.6,
+    "end_timestamp": 29.8,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.69,
+    "representative_bbox": [
+      0.0,
+      515.6,
+      497.0,
+      1008.4
+    ],
+    "total_detections": 4
+  },
+  {
+    "start_timestamp": 29.6,
+    "end_timestamp": 29.6,
+    "type": "object",
+    "content": "tennis racket",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.651,
+    "representative_bbox": [
+      129.1,
+      460.2,
+      205.9,
+      550.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 29.8,
+    "end_timestamp": 29.8,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.937,
+    "representative_bbox": [
+      509.9,
+      716.1,
+      576.0,
+      1018.1
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 30.0,
+    "type": "text",
+    "content": "Et demain matin tu iras",
+    "source": "easyocr",
+    "confidence": 0.875
+  },
+  {
+    "timestamp": 30.0,
+    "type": "text",
+    "content": "accompagner Tante Gertrual:",
+    "source": "easyocr",
+    "confidence": 0.661
+  },
+  {
+    "timestamp": 30.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 0.991
+  },
+  {
+    "timestamp": 30.0,
+    "type": "text",
+    "content": "laury-aucalme",
+    "source": "easyocr",
+    "confidence": 0.696
+  },
+  {
+    "start_timestamp": 30.0,
+    "end_timestamp": 30.0,
+    "type": "object",
+    "content": "remote",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.691,
+    "representative_bbox": [
+      377.2,
+      52.4,
+      469.9,
+      166.3
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.0,
+    "end_timestamp": 30.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      36,
+      588,
+      1036
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.1,
+    "end_timestamp": 30.2,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.752,
+    "representative_bbox": [
+      1.8,
+      0.0,
+      518.5,
+      384.7
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 30.1,
+    "end_timestamp": 30.1,
+    "type": "object",
+    "content": "remote",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.774,
+    "representative_bbox": [
+      237.9,
+      18.0,
+      324.6,
+      131.9
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.1,
+    "end_timestamp": 30.1,
+    "type": "object",
+    "content": "scissors",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.775,
+    "representative_bbox": [
+      99.1,
+      508.5,
+      165.2,
+      637.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.2,
+    "end_timestamp": 30.2,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.572,
+    "representative_bbox": [
+      1.5,
+      462.7,
+      162.8,
+      974.9
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.3,
+    "end_timestamp": 30.3,
+    "type": "object",
+    "content": "donut",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.675,
+    "representative_bbox": [
+      73.0,
+      143.2,
+      427.2,
+      554.7
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.3,
+    "end_timestamp": 30.3,
+    "type": "object",
+    "content": "donut",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.592,
+    "representative_bbox": [
+      22.3,
+      109.1,
+      220.6,
+      261.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.3,
+    "end_timestamp": 30.3,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.629,
+    "representative_bbox": [
+      4.6,
+      107.7,
+      121.1,
+      262.8
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 30.3,
+    "end_timestamp": 30.3,
+    "type": "object",
+    "content": "remote",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.536,
+    "representative_bbox": [
+      51.6,
+      98.9,
+      100.8,
+      122.6
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 31.8,
+    "end_timestamp": 33.8,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.678,
+    "representative_bbox": [
+      0.0,
+      135.3,
+      326.6,
+      738.6
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 31.9,
+    "end_timestamp": 31.9,
+    "type": "object",
+    "content": "tennis racket",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.693,
+    "representative_bbox": [
+      35.5,
+      632.0,
+      292.9,
+      784.4
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 32.2,
+    "end_timestamp": 32.2,
+    "type": "object",
+    "content": "carrot",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.805,
+    "representative_bbox": [
+      11.5,
+      797.0,
+      57.2,
+      838.4
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 32.2,
+    "end_timestamp": 32.2,
+    "type": "object",
+    "content": "chair",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.66,
+    "representative_bbox": [
+      4.6,
+      522.7,
+      138.8,
+      849.1
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 32.3,
+    "end_timestamp": 32.3,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.859,
+    "representative_bbox": [
+      0.0,
+      794.7,
+      91.7,
+      989.9
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 32.5,
+    "end_timestamp": 32.5,
+    "type": "object",
+    "content": "donut",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.602,
+    "representative_bbox": [
+      421.4,
+      536.1,
+      576.0,
+      687.7
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 32.7,
+    "end_timestamp": 33.0,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.574,
+    "representative_bbox": [
+      2.8,
+      426.0,
+      570.8,
+      991.6
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 32.9,
+    "end_timestamp": 32.9,
+    "type": "object",
+    "content": "clock",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.689,
+    "representative_bbox": [
+      202.8,
+      439.0,
+      222.5,
+      522.1
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 33.08,
+    "type": "audio",
+    "content": "Quoi ?",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 33.72
+  },
+  {
+    "start_timestamp": 33.5,
+    "end_timestamp": 33.5,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.715,
+    "representative_bbox": [
+      247.8,
+      851.5,
+      303.0,
+      1024.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 33.7,
+    "end_timestamp": 36.4,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.641,
+    "representative_bbox": [
+      180.1,
+      714.3,
+      253.2,
+      1023.0
+    ],
+    "total_detections": 8
+  },
+  {
+    "timestamp": 33.72,
+    "type": "audio",
+    "content": "Mais non, mais non !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 35.2
+  },
+  {
+    "start_timestamp": 33.77,
+    "end_timestamp": 34.13,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.627,
+    "representative_bbox": [
+      130.9,
+      672.9,
+      213.9,
+      1024.0
+    ],
+    "total_detections": 8
+  },
+  {
+    "start_timestamp": 33.9,
+    "end_timestamp": 33.9,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.869,
+    "representative_bbox": [
+      93.3,
+      613.0,
+      163.7,
+      1017.6
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 35.0,
+    "type": "text",
+    "content": "Mais non:",
+    "source": "easyocr",
+    "confidence": 0.948
+  },
+  {
+    "timestamp": 35.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 0.668
+  },
+  {
+    "timestamp": 35.0,
+    "type": "text",
+    "content": "lauryaucalme",
+    "source": "easyocr",
+    "confidence": 0.81
+  },
+  {
+    "start_timestamp": 35.0,
+    "end_timestamp": 35.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      130,
+      588,
+      1036
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 35.2,
+    "type": "audio",
+    "content": "Son avion décolle à Medi, dont soit là bas pour 6 heures du matin.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 38.08
+  },
+  {
+    "start_timestamp": 35.4,
+    "end_timestamp": 35.4,
+    "type": "object",
+    "content": "cell phone",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.753,
+    "representative_bbox": [
+      132.9,
+      462.6,
+      158.4,
+      590.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 35.5,
+    "end_timestamp": 35.5,
+    "type": "object",
+    "content": "couch",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.572,
+    "representative_bbox": [
+      0.6,
+      513.9,
+      283.6,
+      1021.6
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 35.6,
+    "end_timestamp": 36.1,
+    "type": "object",
+    "content": "clock",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.626,
+    "representative_bbox": [
+      144.3,
+      462.6,
+      170.6,
+      544.2
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 36.17,
+    "end_timestamp": 40.6,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.631,
+    "representative_bbox": [
+      184.8,
+      553.2,
+      377.6,
+      1023.0
+    ],
+    "total_detections": 27
+  },
+  {
+    "start_timestamp": 36.5,
+    "end_timestamp": 36.7,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.532,
+    "representative_bbox": [
+      222.7,
+      689.0,
+      292.6,
+      1024.0
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 36.8,
+    "end_timestamp": 39.0,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.562,
+    "representative_bbox": [
+      32.3,
+      461.5,
+      576.0,
+      1003.0
+    ],
+    "total_detections": 32
+  },
+  {
+    "start_timestamp": 37.1,
+    "end_timestamp": 37.2,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.726,
+    "representative_bbox": [
+      477.2,
+      855.3,
+      576.0,
+      1019.4
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 37.2,
+    "end_timestamp": 37.2,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.808,
+    "representative_bbox": [
+      323.6,
+      703.4,
+      573.1,
+      1011.2
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 37.4,
+    "end_timestamp": 37.4,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.643,
+    "representative_bbox": [
+      358.2,
+      940.7,
+      573.1,
+      1023.6
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 38.08,
+    "type": "audio",
+    "content": "Tira la chercher à quatre fois.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 39.88
+  },
+  {
+    "start_timestamp": 38.4,
+    "end_timestamp": 38.5,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.534,
+    "representative_bbox": [
+      274.9,
+      670.4,
+      300.6,
+      695.7
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 38.7,
+    "end_timestamp": 38.7,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.691,
+    "representative_bbox": [
+      181.0,
+      819.9,
+      313.7,
+      1024.0
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 38.9,
+    "end_timestamp": 39.3,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.653,
+    "representative_bbox": [
+      0.9,
+      693.2,
+      247.7,
+      1016.5
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 39.1,
+    "end_timestamp": 39.1,
+    "type": "object",
+    "content": "cup",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.55,
+    "representative_bbox": [
+      299.8,
+      487.4,
+      393.0,
+      585.6
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 39.4,
+    "end_timestamp": 39.4,
+    "type": "object",
+    "content": "carrot",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.853,
+    "representative_bbox": [
+      15.5,
+      918.7,
+      254.1,
+      1019.1
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 39.47,
+    "end_timestamp": 40.6,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.834,
+    "representative_bbox": [
+      197.8,
+      745.0,
+      291.4,
+      1023.1
+    ],
+    "total_detections": 29
+  },
+  {
+    "timestamp": 39.88,
+    "type": "audio",
+    "content": "Non !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 40.88
+  },
+  {
+    "timestamp": 40.0,
+    "type": "text",
+    "content": "Mais Maman:",
+    "source": "easyocr",
+    "confidence": 0.808
+  },
+  {
+    "timestamp": 40.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 40.0,
+    "type": "text",
+    "content": "lauryaucalme",
+    "source": "easyocr",
+    "confidence": 0.895
+  },
+  {
+    "start_timestamp": 40.0,
+    "end_timestamp": 40.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      100,
+      588,
+      1036
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 40.88,
+    "type": "audio",
+    "content": "Ah !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 41.72
+  },
+  {
+    "start_timestamp": 41.03,
+    "end_timestamp": 41.13,
+    "type": "object",
+    "content": "kite",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.633,
+    "representative_bbox": [
+      427.8,
+      280.9,
+      461.3,
+      446.4
+    ],
+    "total_detections": 5
+  },
+  {
+    "start_timestamp": 41.1,
+    "end_timestamp": 41.2,
+    "type": "object",
+    "content": "kite",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.857,
+    "representative_bbox": [
+      430.2,
+      209.9,
+      455.9,
+      244.7
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 41.2,
+    "end_timestamp": 41.27,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.611,
+    "representative_bbox": [
+      414.3,
+      38.3,
+      574.9,
+      526.0
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 41.43,
+    "end_timestamp": 41.43,
+    "type": "object",
+    "content": "traffic light",
+    "source_models": [
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.71,
+    "representative_bbox": [
+      69.4,
+      3.3,
+      572.4,
+      693.8
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 41.53,
+    "end_timestamp": 43.0,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.646,
+    "representative_bbox": [
+      0.0,
+      0.0,
+      576.0,
+      1020.6
+    ],
+    "total_detections": 24
+  },
+  {
+    "timestamp": 41.72,
+    "type": "audio",
+    "content": "Bah, arrête de t'avoir connu hein, salut !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 43.4
+  },
+  {
+    "start_timestamp": 41.9,
+    "end_timestamp": 43.1,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.649,
+    "representative_bbox": [
+      70.3,
+      663.9,
+      466.9,
+      1019.5
+    ],
+    "total_detections": 4
+  },
+  {
+    "start_timestamp": 42.4,
+    "end_timestamp": 42.6,
+    "type": "object",
+    "content": "carrot",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.598,
+    "representative_bbox": [
+      12.8,
+      919.2,
+      56.0,
+      1019.6
+    ],
+    "total_detections": 3
+  },
+  {
+    "start_timestamp": 43.7,
+    "end_timestamp": 44.1,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.589,
+    "representative_bbox": [
+      146.5,
+      726.8,
+      241.6,
+      1023.1
+    ],
+    "total_detections": 12
+  },
+  {
+    "timestamp": 44.12,
+    "type": "audio",
+    "content": "Ah !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 44.84
+  },
+  {
+    "start_timestamp": 44.17,
+    "end_timestamp": 45.63,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.837,
+    "representative_bbox": [
+      207.0,
+      718.7,
+      288.8,
+      1022.6
+    ],
+    "total_detections": 35
+  },
+  {
+    "start_timestamp": 44.7,
+    "end_timestamp": 44.7,
+    "type": "object",
+    "content": "tie",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.568,
+    "representative_bbox": [
+      260.9,
+      727.7,
+      301.9,
+      764.6
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 44.84,
+    "type": "audio",
+    "content": "Désolé, mon fils, à présenter les hubords de la famille.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 47.16
+  },
+  {
+    "timestamp": 45.0,
+    "type": "text",
+    "content": "Desole mon fils:",
+    "source": "easyocr",
+    "confidence": 0.782
+  },
+  {
+    "timestamp": 45.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 45.0,
+    "type": "text",
+    "content": "lauryaucalme",
+    "source": "easyocr",
+    "confidence": 0.816
+  },
+  {
+    "start_timestamp": 45.0,
+    "end_timestamp": 45.0,
+    "type": "object",
+    "content": "человек",
+    "source_models": [
+      "qwen_vl"
+    ],
+    "avg_confidence": 0.95,
+    "representative_bbox": [
+      0,
+      138,
+      587,
+      1036
+    ],
+    "total_detections": 1
+  },
+  {
+    "start_timestamp": 45.67,
+    "end_timestamp": 48.5,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn",
+      "yolov8n.pt"
+    ],
+    "avg_confidence": 0.796,
+    "representative_bbox": [
+      0.0,
+      1.3,
+      576.0,
+      984.3
+    ],
+    "total_detections": 78
+  },
+  {
+    "timestamp": 47.16,
+    "type": "audio",
+    "content": "Ah !",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 47.44
+  },
+  {
+    "start_timestamp": 48.5,
+    "end_timestamp": 48.5,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.744,
+    "representative_bbox": [
+      3.4,
+      35.6,
+      221.0,
+      780.0
+    ],
+    "total_detections": 2
+  },
+  {
+    "start_timestamp": 48.6,
+    "end_timestamp": 48.6,
+    "type": "object",
+    "content": "person",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.569,
+    "representative_bbox": [
+      2.1,
+      522.5,
+      352.8,
+      1015.1
+    ],
+    "total_detections": 1
+  },
+  {
+    "timestamp": 50.0,
+    "type": "text",
+    "content": "TikTok",
+    "source": "easyocr",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": 50.0,
+    "type": "text",
+    "content": "laury aucalme",
+    "source": "easyocr",
+    "confidence": 0.612
+  },
+  {
+    "timestamp": 50.16,
+    "type": "audio",
+    "content": "Eh ! Et tu serais jamais bébé.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 51.68
+  },
+  {
+    "start_timestamp": 50.2,
+    "end_timestamp": 50.6,
+    "type": "object",
+    "content": "clock",
+    "source_models": [
+      "fasterrcnn_resnet50_fpn"
+    ],
+    "avg_confidence": 0.7,
+    "representative_bbox": [
+      263.9,
+      637.9,
+      313.1,
+      662.4
+    ],
+    "total_detections": 5
+  },
+  {
+    "timestamp": 51.68,
+    "type": "audio",
+    "content": "J'ai bébé.",
+    "source": "whisper_base",
+    "confidence": 0.95,
+    "end_timestamp": 52.52
+  }
+]
